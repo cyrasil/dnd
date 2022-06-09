@@ -1,0 +1,63 @@
+* Eberron
+** Obecne
+- Vysoce Magicky Svet s nadechem steampunku (misto pary se pouziva magie), zhruba na urovni prumyslove revoluce
+- Vzducholode a vlaky pohanene elementaly, samopracujici kostata/lopaty, samocistici se obleceni, magicke lednicky apod...
+- Spousta veci z Forgotten Realms (a jinych svetu) tu existuje ale vetsinou s pomerne velkym twistem - Napr. tu existuje hobiti narod, ktery zije v planich/stepich, ziji jako nomadi a chovaji dinosaury misto koni/krav a jinych nudnych zvirat...
+- Dragonshards [fn:1]: vzacne krystaly, ktere slouzi k vyrobe magickych predmetu. Jsou trochu mistnim ekvivalentem uhli/ropy/zlata -> "zlata horecka"
+- Nabozenstvi: nejsou tu bohove z jinych svetu, takze u paladainu/clericu apod. doporucuju nahlednout do knizky
+*** Nedavna  Historie
+- Kontinent Khorvaire - existuji i nejake dalsi ale tenhle je ten hlavni
+- Vetsina Khorvaire byla dlouhou dobu sjednocena v ramci kralovstvi Galifar, cca. pred sto lety ale doslo k obcanske valce a kralovstvi se rozpadlo na pet statu (Aundair, Breland, Karrnath, Thrane, Cyre)
+- Obcanska valka trvala cca. jedno stoleti a skoncila par let zpet (10-20) primerim, jednotlive staty jsou ale stale ve stavu vzajemneho nepratelstvi/studene valky
+- Behem valky doslo k magicke katastrofe (Mourning), ktera kompletne znicila Cyre, a zanechal z nej jen pustinu, prosycenou magii (takze se tam napr. prohani "splasena kouzla") -> Obava, ze se bude Mourning opkaovat byl pak duvod k primeri
+*** Dragonmarks/Dragonmarked Houses
+- Dragonmarks (Draci znameni): Magicke "skvrny/znaminka/znameni/jizvy", vypadaji spise jako tetovani, ale jsou pokrevne dedicna a nedaji se koupit ani nijak jinak ziskat
+- Existuje jich celkem 12+1[fn:2], a kazde z tech 12 dava nositeli nejake extra magicke schopnosti konkretniho zamereni (lecba, iluze, zvirata, boure...).
+- Mechanicky funguji jako pod/variantni rasy a kazde z nich je vazano na konkretni rasu (takze je mohou ziskat jen ty zakladni "Tolkienovske" rasy) - napr. "Mark of healing" Je spojeno pouze s pulciky.
+- Kolem nich vznikly Dragonmarked Houses (puvodne jich bylo 12, jeden z rodu se ale rozstepil na 2, takze je jich ted 13) - kazdy z techto rodu je spojeny s prave jednim znamenim
+- Rody funguji jako kombinace aristokracie/mafie/korporaci, jsou nezavisle na jednotlivych statech, a kazdy z rodu se zameruje na domenu danou tim znamenim kolem ktereho je vytvoren.
+- Vysoce postaveni clenove rodu musi mit na sobe prislusne znameni a tim padem musi byt i prislusne rasy, bezni raodvi clenove nikoliv.
+- Takze napr. Mark of Hospitality (Coz dava pulcikum schopnosti ve stylu, vytvor jidlo, uspi, zklidni apod.), Kolem neho je vytvoreny rod Ghallanda, a ti maji po svete sit hospod, hostincu, hotelu apod. (a diky tomu pak i funguji jako mistni drbny:-))
+** Rasy
+- Existuji tu vsechny rasy z PHB, hodne z nich se ale lisi oproti Forgotten Realms (napr. uz zmineni nomadsti hobiti).
+- U vetsiny ras se asi da pocitat s nejakou "mestskou" variantou - jedinci co ziji nekde ve velkomestech a z pohledu RP jsou to uz jen v podstate preskinovani lidi (coz mi ale prijde jako celkem nuda, takze bych doporucil aspon nahlednout do knizky a zkusit se trochu inspirovat;-))
+- Existuje tu i par novych ras:
+  - Changelings: Nemaji fixni podobu, ale dokazi se menit (ale jen jako humanoidi +- stejne velikosti), a casto tak napr. vyjadruji svou naladu, pripadne aktualni funkci/pozici
+  - Kalashtar: Vicemene lide, ale jsou mentalne spojeni s duchy (vetsinou jsou LG) ze sveta snu, coz jim dava nejake zakladni telepaticke schopnosti
+  - Shifters: vicemene pul-vlko(medvedo/kocko/..)dlaci. Lidi, kteri maji v sobe nejaky zvireci aspekt, ktery castecne ovlivnuje jejich povahu a ktery jim dava nejake specialni schopnosti spojene s tim konkretnim zviretem.
+  - Warforged: roboti/golemove, kteri byly stvoreni behem Velke valky jako vojaci, a ted hledaji sve nove misto ve svete
+** Q'Barra
+- Poloostrov na vychode Khorvaire, odriznuty vysokym pohorim od zbytku kontinentu - pomerne izolovany a neprozkoumany
+- Vzhledem k izolovanosti, jde pomerne snadno upravit z pohledu steampunkovosti a jinych settingovych veci
+- Tvori ho predevsim baziny a dzungle, uvnitr ktere se nalezaji ruzne stare ruiny a chramy. Dzungle je obyvana predevsim jestery a dragonborny.
+- Behem valky sem uprchla skupina osadniku a zalozila tu mesto Newthrone (funguje jako "hlavni mesto" oblasti, ale hodne osad se povazuje za spise nezavisle), a maly stat pojmenovany Novy Galifar
+- Osadnici tu nasli velka naleziste Dragonshardu
+- Cela ta oblast ma hodne "westernovy feeling" (jen v dzungli misto na planich) - mensi, pomerne samostatna mestecka, se serifem a fararem a zlatou (resp dragonshard) horeckou
+- Severne od Q'barry se nachazi Lhazaar principalities - piratska kralovstvi
+* Pravidla/plothooky/postavy
+** Plothook
+- Rod Ghallanda (to jsou ti "hospodsti/hotelieri") chce rozsirit svou oblast pusobeni v ramci Q'Barry
+- Vase skupina byla najata (muzete byt cleny rodu ale muzete byt i najati kontraktori) aby s tim pomohla
+- Vase postavy se alespon zbezne znaji - cesta do Saltmarsh (male pristavni mestecko, ve kterem se dobrodruzstvi odehrava) zabrala par tydnu cesty, behem ktere jste se stihli vzajemne predstavit (co bylo predtim je otevrene).
+** Pravidla/Postavy
+- Hral bych podle DnD, JaD by melo byt kompatibilni, ale tu pravidlovou cast moc neznam, takze v pripade kolizi ma DnD prednost.
+- Rasy - cokoliv z PHB/Eberronu (vcetne dragonmarku). Ta "i hobit muze byt silak" pravidla z Tashi spise ne.
+- Classy, cokoliv z PHB/Xanathara/JaD(ale tu knizku fakt tahat nechci)/Eberronu/Ravnicy/... (pokud budete mit nejakou z tech vic exotickych knizek tak ji ale pak tahejte;-)) . Tashu zase spis ne.
+- Attributy - klasicka sestice, pripadne moznost si nahazet (ale ne doma;-))
+- Background - cokoliv co dava smysl
+- Postavy pokud mozno moc neprekombit - staci par odrazek, neni treba popsat A4
+- Zacinate na prvnim levelu, takze urcite nemate doma sklep plny dracich lebek apod. Stejne tak by bylo fajn, aby to nebyla parta plna "vyvolenych". Alespon to uvodni dobrodruzstvi je pomerne prizemni a neni to nic o zachrane sveta nebo tak.
+** Uvodni dobrodruzstvi
+- zabere cca 2-3 tydny a dostanete se na 2-3 level (jeste uvidim)
+- Pak nemam nachystane vubec nic a ocekavam ze by se toho zase ujal nekdo dalsi
+- Mozna pokracovani:
+  - Pruzkum dzungle 
+  - Tezba Dragonshardu
+  - Namorni dobrodruzstvi (Pirati ze severu, pripadne jen pruzkum nejakych blizkych vod)
+  - Politicke intriky v ramci mesta
+  - Exituje i moznost pokracovat dal v ramci te Ghosts of Saltmarsh knizky, ze ktere je to prvni dobrodruzstvi, ale ta navazujici mi prijdou dost "o hubu" co se jejich vedeni tyce
+  - Moznost vratit se zpet na hlavni cast kontinentu a jit zcela jinou cestou
+  - ...
+  
+[fn:1]: Draci jsou btw spojeni se stvorenim sveta, takze se pak na ne odkazuje par dalsich veci.
+[fn:2]: To +1 funguje trochu jinak nez tech 12. Jeho nositele jsou povazovani za mutanty/zrudy. Oproti tem ostatnim, tohle se da ziskat i bez pokrevni pribuznosti s jeho nositelem (mechanicky funguje jako feat).
